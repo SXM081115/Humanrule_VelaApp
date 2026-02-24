@@ -18,20 +18,20 @@
       {
         "name": "蜃晞芒"
       }
-    ],
-    "links": [
-      {
-        "icon": "",
-        "title": "爱发电",
-        "url": "https://afdian.com/a/zptdfbilibili"
-      },
-      {
-        "icon": "",
-        "title": "我的B站",
-        "url": "https://space.bilibili.com/487041556"
-      }
     ]
   },
+  "links": [
+    {
+      "icon": "",
+      "title": "爱发电",
+      "url": "https://afdian.com/a/zptdfbilibili"
+    },
+    {
+      "icon": "",
+      "title": "我的B站",
+      "url": "https://space.bilibili.com/487041556"
+    }
+  ],
   "downloads": {
     "xmb9": {
       "version": "1.0.5",
