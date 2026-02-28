@@ -16,7 +16,8 @@
     "cover": "preview0.png",
     "author": [
       {
-        "name": "蜃晞芒"
+        "name": "蜃晞芒",
+        "bindABAccount": true
       }
     ]
   },
