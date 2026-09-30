@@ -13,54 +13,61 @@
       "device4.png"
     ],
     "icon": "icon.png",
-    "cover": "preview0.png",
+    "cover": "media/30563cf2-40de-4224-ac39-9a7db6af9b84.png",
     "author": [
       {
-        "name": "SXM",
+        "name": "bandbbs_874728",
         "bindABAccount": true
       }
     ]
   },
   "links": [
     {
-      "icon": "",
       "title": "爱发电",
-      "url": "https://afdian.com/a/zptdfbilibili"
+      "url": "https://afdian.com/a/zptdfbilibili",
+      "icon": "Barcode"
     },
     {
-      "icon": "",
       "title": "我的B站",
-      "url": "https://space.bilibili.com/487041556"
+      "url": "https://space.bilibili.com/487041556",
+      "icon": "Bread"
     }
   ],
   "downloads": {
     "xmb9": {
       "version": "1.0.5",
-      "file_name": "app.rpk"
+      "file_name": "app.rpk",
+      "versionCode": 1
     },
     "xmb9p": {
       "version": "1.0.5",
-      "file_name": "app.rpk"
+      "file_name": "app.rpk",
+      "versionCode": 1
     },
     "xmb10": {
       "version": "1.0.5",
-      "file_name": "app.rpk"
+      "file_name": "app.rpk",
+      "versionCode": 1
     },
     "xmb10nfc": {
       "version": "1.0.5",
-      "file_name": "app.rpk"
+      "file_name": "app.rpk",
+      "versionCode": 1
     },
     "xmrw5": {
       "version": "1.0.5",
-      "file_name": "app.rpk"
+      "file_name": "app.rpk",
+      "versionCode": 1
     },
     "xmrw5xring": {
       "version": "1.0.5",
-      "file_name": "app.rpk"
+      "file_name": "app.rpk",
+      "versionCode": 1
     },
     "xmrw6": {
       "version": "1.0.5",
-      "file_name": "app.rpk"
+      "file_name": "app.rpk",
+      "versionCode": 1
     }
   },
   "ext": {}
